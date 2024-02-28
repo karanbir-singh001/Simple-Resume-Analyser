@@ -1,4 +1,4 @@
-FOR WINDOWS:- 
+**FOR WINDOWS:- **
 # Open Command Prompt
 # python -m venv myenv
 # pip install PyPDF2
@@ -7,7 +7,7 @@ FOR WINDOWS:-
 # activate
 # python3 Analyser.py
 
-For Linux:-
+**For Linux:-**
 # sudo apt install python3-pypdf2
 # python3 -m venv myenv
 # source myenv/bin/activate
